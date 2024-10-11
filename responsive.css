@@ -1,0 +1,283 @@
+@media (max-width: 1880px) {
+  .facebookname img {
+    margin-right: 0;
+    margin-top: 8.3%;
+    margin-left: 20%;
+  }
+
+  .facebookname p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    margin-top: -30px;
+    margin-left: 20.1%;
+    font-size: 28px;
+    word-spacing: 2px;
+  }
+  .page p {
+    margin-top: 8.5%;
+    margin-left: 55.7%;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 1080px) {
+  .facebookname img {
+    width: 260px;
+    height: 130px;
+    margin-top: -3%;
+    margin-left: 120px;
+    vertical-align: baseline;
+    background-color: transparent;
+  }
+
+  .facebookname p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    margin-top: -25px;
+    margin-left: 45px;
+    font-size: 23px;
+    word-spacing: 2px;
+    text-align: center;
+    width: 400px;
+  }
+  .facebookname p > br {
+    display: none;
+  }
+  .loginform {
+    background-color: white;
+    width: 400px;
+    height: 360px;
+    float: none;
+    margin-left: 40px;
+    margin-top: 0px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.322);
+  }
+  .loginform form .input1 {
+    position: absolute;
+    padding: 14px;
+    width: 361px;
+    margin: 20px;
+    border: none;
+    border-radius: 5px;
+    outline: 1px solid #ccc;
+    font-size: 17px;
+    font-weight: 100;
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+  }
+  .input2 {
+    width: 361px;
+    margin: 90px 20px 20px 20px;
+    padding: 14px;
+    outline: 1px solid #ccc;
+    font-size: 17px;
+    font-weight: 100;
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+    border: none;
+    border-radius: 5px;
+  }
+  .page p {
+    margin-top: 4.5%;
+    margin-left: 75px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+  }
+
+  .footer {
+    background-color: white;
+    height: 300px;
+    margin-top: 100px;
+    width: 100%;
+  }
+  .footer .footerp {
+    position: absolute;
+    background-color: white;
+    font-size: 13px;
+    word-spacing: 8px;
+    margin-top: 20px;
+    margin-left: 30px;
+    color: #a1a1a1;
+    width: 440px;
+    text-align: justify;
+  }
+  .footer .footerp > br {
+    display: inline;
+  }
+
+  .footer .hr4 {
+    position: absolute;
+    margin-top: 70px;
+    width: 390px;
+    margin-left: 30px;
+    opacity: 0.5;
+  }
+
+  .footer .footerp2 > br {
+    display: none;
+  }
+
+  .footer .footerp2 {
+    position: absolute;
+    background-color: white;
+    font-size: 13px;
+    word-spacing: 10px;
+    margin-left: 30px;
+    margin-top: 80px;
+    color: #a1a1a1;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 440px;
+    text-align: justify;
+  }
+}
+
+@media (max-width: 480px) {
+
+ 
+  .facebookname img {
+    width: 160px;
+    height: 100px;
+    margin-top: -3%;
+    margin-left: 100px;
+    vertical-align: baseline;
+    background-color: transparent;
+  }
+
+  .facebookname p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    margin-top: -25px;
+    margin-left: 30px;
+    font-size: 19px;
+    word-spacing: 2px;
+    text-align: center;
+    width: 300px;
+  }
+  .facebookname p > br {
+    display: none;
+  }
+  .loginform {
+    background-color: white;
+    width: 290px;
+    height: 330px;
+    float: none;
+    margin-left: 36px;
+    margin-top: 0px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.322);
+  }
+  .loginform form .input1 {
+    position: absolute;
+    padding: 14px;
+    width: 260px;
+    margin: 15px;
+    border: none;
+    border-radius: 5px;
+    outline: 1px solid #ccc;
+    font-size: 14px;
+    font-weight: 100;
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+  }
+  .input2 {
+    width: 260px;
+    margin: 70px 15px 15px 15px;
+    padding: 14px;
+    outline: 1px solid #ccc;
+    font-size: 14px;
+    font-weight: 100;
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+    border: none;
+    border-radius: 5px;
+  }
+  .loginform form .button1 {
+    width: 260px;
+    margin: -5px 15px;
+    padding: 11px;
+    font-size: 21px;
+    font-weight: bold;
+    background-color: #006bf7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .loginform .button2 {
+    position: relative;
+    width: 200px;
+    margin: -5px 15px;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #3daf26f3;
+    color: white;
+    border: none;
+    margin-top: 5%;
+    margin-left: 15%;
+    border-radius: 5px;
+  }
+  .page p {
+    margin-top: 4.5%;
+    margin-left: 39px;
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+  }
+
+  .page p .a3 {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 13px;
+  }
+
+  .footer {
+    background-color: white;
+    height: 310px;
+    margin-top: 70px;
+    width: 103.2%;
+  }
+  .footer .footerp {
+    position: absolute;
+    background-color: white;
+    font-size: 11px;
+    word-spacing: 8px;
+    margin-top: 20px;
+    margin-left: 15px;
+    color: #a1a1a1;
+    width: 330px;
+    text-align: justify;
+  }
+  .footer .footerp > br {
+    display: inline;
+  }
+
+  .footer .hr4 {
+    position: absolute;
+    margin-top: 60px;
+    width: 330px;
+    margin-left: 14px;
+    opacity: 0.5;
+  }
+
+  .footer .footerp2 > br {
+    display: none;
+  }
+
+  .footer .footerp2 {
+    position: absolute;
+    background-color: white;
+    font-size: 11px;
+    word-spacing: 10px;
+    margin-left: 15px;
+    margin-top: 70px;
+    color: #a1a1a1;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 330px;
+    text-align: justify;
+  }
+}
